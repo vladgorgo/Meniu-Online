@@ -1,0 +1,227 @@
+[
+  {
+    "ID": 1,
+    "numeProdus": "MERCIMEK ÇORBASI",
+    "pretProdus": 15,
+    "descriereProdus": "ciorbă de linte, morcov, ceapă, unt, suc de lămâie, cartofi",
+    "categorieProdus": "CIORBE",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 2,
+    "numeProdus": "TAVUK ÇORBASI",
+    "pretProdus": 15,
+    "descriereProdus": "ciorbă de pui, piept de pui, unt, iaurt, morcov",
+    "categorieProdus": "CIORBE",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 3,
+    "numeProdus": "BABA KOFTE",
+    "pretProdus": 35,
+    "descriereProdus": "chiftele din carne tocată vită/oaie condimentate, roșii, ceapă, ardei iute, orez",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "250 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 4,
+    "numeProdus": "BABA BURGER",
+    "pretProdus": 30,
+    "descriereProdus": "chifle, carne de vită, roșii, salată. ceapă, castraveți murați, cașcaval cheddar",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 5,
+    "numeProdus": "ISKENDER VITA",
+    "pretProdus": 55,
+    "descriereProdus": "carne de vită/oaie, sos de roșii, ardei iute, iaurt, orez și pâine turcească",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "350 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 6,
+    "numeProdus": "ISKENDER PUI",
+    "pretProdus": 50,
+    "descriereProdus": "carne de pui, sos de roșii, ardei iute, iaurt, orez și pâine turcească",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "300 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 7,
+    "numeProdus": "SAC TAVA VITĂ",
+    "pretProdus": 50,
+    "descriereProdus": "carne de vită, ardei verde. ardei roșu, ceapă, ciuperci",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "300 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 8,
+    "numeProdus": "SAC TAVA PUI",
+    "pretProdus": 45,
+    "descriereProdus": "carne de pui, ardei verde, ardei roșu, ceapă, ciuperci, roșii",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "300 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 9,
+    "numeProdus": "KAURMA",
+    "pretProdus": 45,
+    "descriereProdus": "carne de vițel prăjită cu ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "150 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 10,
+    "numeProdus": "LOKUM",
+    "pretProdus": 65,
+    "descriereProdus": "mușchi de vițel, unt, rozmarin, usturoi, roșii cherry",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 11,
+    "numeProdus": "ANTRICOT",
+    "pretProdus": 55,
+    "descriereProdus": "antricot de vițel, unt,roșii cherry",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 12,
+    "numeProdus": "DONER VITĂ LA FARFURIE",
+    "pretProdus": 50,
+    "descriereProdus": "carne de vita cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "350 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 13,
+    "numeProdus": "DONER PUI LA FARFURIE",
+    "pretProdus": 40,
+    "descriereProdus": "carne de pui cu orez turcesc, roșii, ardei iute, ceapă, cartofi prăjiți",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "350 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 14,
+    "numeProdus": "DONER VITĂ",
+    "pretProdus": 35,
+    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 15,
+    "numeProdus": "DONER PUI",
+    "pretProdus": 30,
+    "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 16,
+    "numeProdus": "DURUM VITĂ",
+    "pretProdus": 28,
+    "descriereProdus": "",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "350 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 17,
+    "numeProdus": "DURUM PUI",
+    "pretProdus": 22,
+    "descriereProdus": "",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "350 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 18,
+    "numeProdus": "OREZ",
+    "pretProdus": 18,
+    "descriereProdus": "orez turcesc, unt",
+    "categorieProdus": "GARNITURI",
+    "gramajProdus": "150 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 19,
+    "numeProdus": "CARTOFI PRĂJIȚI",
+    "pretProdus": 10,
+    "descriereProdus": "",
+    "categorieProdus": "GARNITURI",
+    "gramajProdus": "150 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 20,
+    "numeProdus": "PÂINE TURCEASCĂ",
+    "pretProdus": 3,
+    "descriereProdus": "",
+    "categorieProdus": "GARNITURI",
+    "gramajProdus": "100 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 21,
+    "numeProdus": "HAVUC DILIMI",
+    "pretProdus": 20,
+    "descriereProdus": "",
+    "categorieProdus": "DESERT",
+    "gramajProdus": "100 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 22,
+    "numeProdus": "BUDINCĂ CU CIOCOLATĂ",
+    "pretProdus": 18,
+    "descriereProdus": "",
+    "categorieProdus": "DESERT",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 23,
+    "numeProdus": "BAKLAVALE CU FISTIK",
+    "pretProdus": 20,
+    "descriereProdus": "",
+    "categorieProdus": "DESERT",
+    "gramajProdus": "100 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 24,
+    "numeProdus": "SUTLAÇ / OREZ CU LAPTE",
+    "pretProdus": 15,
+    "descriereProdus": "",
+    "categorieProdus": "DESERT",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 25,
+    "numeProdus": "TAȘ KADAYIF",
+    "pretProdus": 20,
+    "descriereProdus": "",
+    "categorieProdus": "DESERT",
+    "gramajProdus": "100 GR",
+    "imagePath": ""
+  }
+]
