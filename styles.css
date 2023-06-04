@@ -13,6 +13,16 @@
     margin:1rem 0.5rem;
 }
 
+.cardAlergeni
+{
+    background-color: rgb(240, 240, 240);
+    border-radius: 1rem;
+    margin:1rem 0.5rem;
+    padding:2rem;
+    font-size:0.9rem;
+}
+
+
 .cardProdus
 {
     margin:1rem;
@@ -47,4 +57,14 @@ img
     line-height: 25px;
     border-radius: 25px;
     background-color: rgb(94, 94, 94);
+}
+
+ol
+{
+    list-style:block !important;
+    margin:2.2rem !important;
+}
+.hidden
+{
+    display: none;
 }

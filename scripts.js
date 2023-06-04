@@ -37,3 +37,7 @@ function incarcaMeniu()
 }
 
 
+function toggleParagraph() {
+    var paragraph = $("#paragraph");
+    paragraph.toggleClass("hidden");
+  }

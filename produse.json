@@ -118,8 +118,26 @@
   },
   {
     "ID": 14,
-    "numeProdus": "DONER VITĂ",
+    "numeProdus": "DONER VITĂ - Mare",
     "pretProdus": 35,
+    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "300 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 15,
+    "numeProdus": "DONER PUI - Mare",
+    "pretProdus": 30,
+    "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "300 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 14,
+    "numeProdus": "DONER VITĂ - Mic",
+    "pretProdus": 30,
     "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
     "gramajProdus": "200 GR",
@@ -127,8 +145,8 @@
   },
   {
     "ID": 15,
-    "numeProdus": "DONER PUI",
-    "pretProdus": 30,
+    "numeProdus": "DONER PUI - Mic",
+    "pretProdus": 25,
     "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
     "gramajProdus": "200 GR",
@@ -138,7 +156,7 @@
     "ID": 16,
     "numeProdus": "DURUM VITĂ",
     "pretProdus": 28,
-    "descriereProdus": "",
+    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
     "gramajProdus": "350 GR",
     "imagePath": ""
@@ -147,7 +165,7 @@
     "ID": 17,
     "numeProdus": "DURUM PUI",
     "pretProdus": 22,
-    "descriereProdus": "",
+    "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
     "gramajProdus": "350 GR",
     "imagePath": ""
@@ -191,7 +209,7 @@
   {
     "ID": 22,
     "numeProdus": "BUDINCĂ CU CIOCOLATĂ",
-    "pretProdus": 18,
+    "pretProdus": 20,
     "descriereProdus": "",
     "categorieProdus": "DESERT",
     "gramajProdus": "200 GR",
@@ -221,7 +239,241 @@
     "pretProdus": 20,
     "descriereProdus": "",
     "categorieProdus": "DESERT",
-    "gramajProdus": "100 GR",
+    "gramajProdus": "100 GR", 
+    "imagePath": ""
+  },
+
+
+  {
+    "ID": 26,
+    "numeProdus": "PIAZ",
+    "pretProdus": 15,
+    "descriereProdus": "fasole, ceapă, pătrunjel, salată iceberg",
+    "categorieProdus": "SALATĂ",
+    "gramajProdus": "150 GR", 
+    "imagePath": ""
+  },
+
+  {
+    "ID": 27,
+    "numeProdus": "CIOBAN SALATA",
+    "pretProdus": 20,
+    "descriereProdus": "roșii, castraveți, ceapă, ardei, pătrunjel, ardei",
+    "categorieProdus": "SALATĂ",
+    "gramajProdus": "150 GR", 
+    "imagePath": ""
+  },
+
+  {
+    "ID": 28,
+    "numeProdus": "BABA SALATĂ",
+    "pretProdus": 23,
+    "descriereProdus": "salată iceberg, rucola, roșii cherry, castraveți, sos de rodii, ceapă roșie",
+    "categorieProdus": "SALATĂ",
+    "gramajProdus": "150 GR", 
+    "imagePath": ""
+  },
+
+  {
+    "ID": 29,
+    "numeProdus": "APĂ PLATĂ FUSKA",
+    "pretProdus": 3,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.5 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 30,
+    "numeProdus": "DORNA APĂ PLATĂ",
+    "pretProdus": 6,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.33 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 31,
+    "numeProdus": "DORNA APĂ MINERALĂ",
+    "pretProdus": 6,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.5 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 32,
+    "numeProdus": "COCA COLA ZERO",
+    "pretProdus": 6,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 33,
+    "numeProdus": "COCA COLA",
+    "pretProdus": 6,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 34,
+    "numeProdus": "FANTA",
+    "pretProdus": 6,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 35,
+    "numeProdus": "SPRITE",
+    "pretProdus": 6,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+
+  {
+    "ID": 36,
+    "numeProdus": "CAPPY PORTOCALE/ PORTOCALE ROȘII",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 43,
+    "numeProdus": "CAPPY LIMONADĂ CĂPȘUNI",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.4 L", 
+    "imagePath": ""
+  },
+
+  {
+    "ID": 37,
+    "numeProdus": "FUZETEA LĂMÂIE / PIERSICĂ",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 38,
+    "numeProdus": "SCHWEPPES PINK TONIC/ BITTER LEMON/ MANDARIN",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 39,
+    "numeProdus": "COCA COLA",
+    "pretProdus": 8,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.5 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 40,
+    "numeProdus": "FANTA PORTOCALE",
+    "pretProdus": 8,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.5 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 41,
+    "numeProdus": "SPRITE",
+    "pretProdus": 8,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.5 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 42,
+    "numeProdus": "COCA COLA ZERO",
+    "pretProdus": 8,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.5 L", 
+    "imagePath": ""
+  },
+
+  {
+    "ID": 44,
+    "numeProdus": "COCA COLA",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.33 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 48,
+    "numeProdus": "COCA COLA ZERO",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.33 L", 
+    "imagePath": ""
+  },
+  
+  {
+    "ID": 45,
+    "numeProdus": "FANTA",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.33 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 46,
+    "numeProdus": "SPRITE",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.33 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 47,
+    "numeProdus": "BURN ZERO VERDE",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 48,
+    "numeProdus": "BURN ZERO ZAHĂR CU PIERSICĂ",
+    "pretProdus": 7,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "0.25 L", 
+    "imagePath": ""
+  },
+  {
+    "ID": 49,
+    "numeProdus": "AYRAN",
+    "pretProdus": 7.5,
+    "descriereProdus": "",
+    "categorieProdus": "RĂCORITOARE",
+    "gramajProdus": "350 GR", 
     "imagePath": ""
   }
 ]
