@@ -117,36 +117,18 @@
     "imagePath": ""
   },
   {
-    "ID": 14,
-    "numeProdus": "DONER VITĂ - Mare",
-    "pretProdus": 35,
-    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
-    "categorieProdus": "KEBAB",
-    "gramajProdus": "300 GR",
-    "imagePath": ""
-  },
-  {
-    "ID": 15,
-    "numeProdus": "DONER PUI - Mare",
-    "pretProdus": 30,
+    "ID": 17,
+    "numeProdus": "DURUM PUI",
+    "pretProdus": 25,
     "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
-    "gramajProdus": "300 GR",
+    "gramajProdus": "150 GR",
     "imagePath": ""
   },
   {
-    "ID": 14,
-    "numeProdus": "DONER VITĂ - Mic",
-    "pretProdus": 30,
-    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
-    "categorieProdus": "KEBAB",
-    "gramajProdus": "200 GR",
-    "imagePath": ""
-  },
-  {
-    "ID": 15,
-    "numeProdus": "DONER PUI - Mic",
-    "pretProdus": 25,
+    "ID": 17,
+    "numeProdus": "DURUM MARE PUI",
+    "pretProdus": 28,
     "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
     "gramajProdus": "200 GR",
@@ -158,18 +140,37 @@
     "pretProdus": 28,
     "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
-    "gramajProdus": "350 GR",
+    "gramajProdus": "150 GR",
     "imagePath": ""
   },
   {
-    "ID": 17,
-    "numeProdus": "DURUM PUI",
-    "pretProdus": 22,
-    "descriereProdus": "carne de pui, roșii, ardei iute, ceapă",
+    "ID": 16,
+    "numeProdus": "DURUM MARE VITĂ",
+    "pretProdus": 35,
+    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
     "categorieProdus": "KEBAB",
-    "gramajProdus": "350 GR",
+    "gramajProdus": "200 GR",
     "imagePath": ""
   },
+  {
+    "ID": 16,
+    "numeProdus": "CHIFLĂ VITĂ",
+    "pretProdus": 35,
+    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  {
+    "ID": 16,
+    "numeProdus": "CHIFLĂ PUI",
+    "pretProdus": 28,
+    "descriereProdus": "carne de vită, roșii, ardei iute, ceapă",
+    "categorieProdus": "KEBAB",
+    "gramajProdus": "200 GR",
+    "imagePath": ""
+  },
+  
   {
     "ID": 18,
     "numeProdus": "OREZ",
@@ -258,17 +259,7 @@
     "ID": 27,
     "numeProdus": "CIOBAN SALATA",
     "pretProdus": 20,
-    "descriereProdus": "roșii, castraveți, ceapă, ardei, pătrunjel, ardei",
-    "categorieProdus": "SALATĂ",
-    "gramajProdus": "150 GR", 
-    "imagePath": ""
-  },
-
-  {
-    "ID": 28,
-    "numeProdus": "BABA SALATĂ",
-    "pretProdus": 23,
-    "descriereProdus": "salată iceberg, rucola, roșii cherry, castraveți, sos de rodii, ceapă roșie",
+    "descriereProdus": "roșii, castraveți, ceapă, ardei",
     "categorieProdus": "SALATĂ",
     "gramajProdus": "150 GR", 
     "imagePath": ""
